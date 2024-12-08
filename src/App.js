@@ -54,7 +54,7 @@ function App() {
         </svg>
       </div>
 
-      <header className="header">
+      {/* <header className="header">
         <h1 className="h1">
           <a href="" className="a">
             Daian
@@ -79,7 +79,7 @@ function App() {
             </li>
           </ul>
         </nav>
-      </header>
+      </header> */}
       <main className="main">
         <div className="seccion" id="inicio">
           <section className="secion">
@@ -92,6 +92,7 @@ function App() {
                   target="_blank"
                   className="a"
                   title="Github"
+                  rel="noopener noreferrer"
                 >
                   Visita mi Github
                 </a>
@@ -102,6 +103,7 @@ function App() {
                   className="a"
                   title="Linkedin"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   Visita mi Likendin
                 </a>
@@ -122,6 +124,7 @@ function App() {
                 title="Trabajo1"
                 target="_blank"
                 className="a"
+                rel="noopener noreferrer"
               >
                 <figure className="figures">
                   <img
@@ -140,6 +143,7 @@ function App() {
                 title="Trabajo2"
                 target="_blank"
                 className="a"
+                rel="noopener noreferrer"
               >
                 <figure className="figures">
                   <img
