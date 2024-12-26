@@ -84,7 +84,7 @@ function App() {
         <div className="seccion" id="inicio">
           <section className="secion">
             <h2 className="h2"> Giménez García Daián</h2>
-            <h3 className="h3"> Frontend Developer</h3>
+            <h3 className="h3"> Full Stack Developer</h3>
             <ul className="ul">
               <li className="li">
                 <a
